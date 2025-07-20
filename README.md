@@ -4,7 +4,7 @@ I'm a systems thinker that believes **the best solution isn't always the most te
 
  **Robustness** is important: reliable and adaptable.  The specific context of conditions is a fundamental ingredient of creating heuristic frameworks.  Understanding the environment, the constraints and operational realities is realizing resliance. If it’s not **resilient & obvious**, it’s not done yet.
 
- **My aim is to unleash human potential**—people are the greatest natural resource. I aspire to create products layered with principal instead of rules. 
+ **My aim is to unleash human potential**—people are the greatest natural resource. I aspire to create products layered with principles instead of rules. 
 
 ---
 
