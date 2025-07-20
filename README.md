@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm a systems thinker that believes, **the best solution isn't always the most technical or complex**. My inclination is to apply tools and technology in practical, meaningful way and I favor **Engineering Controls over training in Functional Expertise**.
+I'm a systems thinker that believes **the best solution isn't always the most technical or complex**. My inclination is to apply tools and technology in a practical, meaningful way and I favor **Engineering Controls over training in Functional Expertise**.
 
  **Robustness** is important: reliable and adaptable.  The specific context of conditions is a fundamental ingredient of creating heuristic frameworks.  Understanding the environment, the constraints and operational realities is realizing resliance. If it’s not **resilient & obvious**, it’s not done yet.
 
